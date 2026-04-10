@@ -1,6 +1,6 @@
 window.APP_CONFIG = {
   environment: "develop",
-  version: "v0.2.0-dev",
+  version: "v0.2.1-dev",
   updatedAt: "2026-04-09",
   changes: [
     "Se actualizó la versión en develop",
