@@ -1,4 +1,5 @@
 window.APP_CONFIG = {
+window.APP_CONFIG = {
   environment: "staging",
   version: "v0.2.0-staging",
   updatedAt: "2026-04-09",
